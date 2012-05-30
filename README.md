@@ -2,7 +2,6 @@
 
 ## About
 
-CakePHP 2.0 以降の AuthenticateComponent として動作する Facebook, Twitter, Google, Linkedin のアカウントを使ってログイン認証するためのプラグインです。
 A CakePHP plugin to sign in with Facebook, Twitter, Google and Linkedin account.  
 
 ## Target APIs
