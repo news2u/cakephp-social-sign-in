@@ -78,7 +78,8 @@ CakePHP does not pass the infomation which authentication component is used to l
         return $login_method;
     }
 
-## License
+## Copyright and License
 
 Copyright 2012 News2u Corporation
+
 MIT License (http://www.opensource.org/licenses/mit-license.php)

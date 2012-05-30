@@ -78,4 +78,5 @@ SocialSignIn Authenticate Component は各サービスのサインインのと�
 ## 著作権・ライセンス
 
 Copyright 2012 News2u Corporation
+
 MIT License (http://www.opensource.org/licenses/mit-license.php)
